@@ -5,9 +5,9 @@ public class App {
         int b = 10;
         int soma = a + b;
         String nome = "Vitor";
-        String ola = "Tudo bem?";
+        String ola = "Olá, tudo bem?" +  nome + "!" ;
 
-        System.out.println(nome);
+        
         System.out.println(ola);
         System.out.println(soma);
 
