@@ -5,7 +5,7 @@ public class App {
         int b = 10;
         int soma = a + b;
         String nome = "Vitor";
-        String ola = "Olá, Mundo" +  nome + "!" ;
+        String ola = "Olá, Mundo!" ;
 
         
         System.out.println(ola);
